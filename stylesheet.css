@@ -1,0 +1,74 @@
+body {
+  font-family:inherit;
+  background-image: url(https://www.nagaicoffee.com/image/Coffeebeanstop.jpg);
+  background-size:cover;
+
+}
+
+li {
+  list-style:none;
+}
+.header {
+  background-color:white;
+  color:black;
+  height:55px;
+  width:100%;
+  opacity:0.7;
+  font-size:20px;
+  border-radius:5px;
+}
+.header-logo {
+  float: left;
+  padding:15px 20px 32px 130px;
+}
+.header-list li {
+ float:left;
+ padding: 15px 35px 5px 35px;
+}
+.container {
+  margin-top:100px;
+  height:250px;
+}
+.container h2 {
+  font-size:30px;
+  text-align:center;
+  padding-top:8px;
+  opacity:0.8;
+}
+.contact-form h2 {
+  border-bottom: 1px solid black;
+  text-align:center;
+  margin: 70px 0px 10px 0px;
+  opacity:0.8;
+  font-size:20px;
+
+}
+.contact-form p {
+  font-size:17px;
+  text-align:center;
+}
+input {
+  margin-left: 640px;
+  opacity:0.8;
+}
+textarea {
+  margin-left:635px;
+  opacity:0.8;
+}
+footer {
+  background-color:white;
+  height:95px;
+  opacity:0.8;
+  border-radius:5px;
+  margin-top:60px;
+}
+.footer-logo {
+  float:left;
+  padding:10px;
+  font-size:20px;
+}
+.footer-list {
+  float:right;
+  padding:1px 10px 15px 1px;
+  font-size:15px;
+}
